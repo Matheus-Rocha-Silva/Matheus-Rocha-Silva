@@ -3,9 +3,7 @@
 Alguns fatos sobre mim:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 📒 Estou estudando Full-Stack atualmente em conjunto com uma graduação em ADS.
-- Gosto de ler bastante, desde literatura a livros técnicos.
-- Gosto de filmes, animes e inclusive mangás.
-- Ele/Dele.
+Sou fromando em Análise e Desenvolvimento de Sistemas pela instituição UNICEPLAC, e em Téc. em Desenvolvimento de Sistemas pelo Senai, incluindo um curso EAD de Full-Stack da mesma instituição.
+
 
 
